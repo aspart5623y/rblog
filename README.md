@@ -2,7 +2,7 @@
 
 This is a complete blog app built with React.js with all the features.
 
-Live Demo: https://react-blog-app.herokuapp.com/
+Live Demo: https://rblog-nine.vercel.app/
 
 ## Project Description
 In the project, I created a Complete Blog Application with all features. I made use of React.js and to manage our states, I made use of Redux. I also made us of Redux Persist to persist the state. This is a complete beginner friendly app. Hope you like it.
